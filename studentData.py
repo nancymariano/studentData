@@ -1,7 +1,5 @@
 #Nancy Mariano
-#CPSC 3400 
 #01/17/2017
-#hw1.py 
 
 
 import sys 
